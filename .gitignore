@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# виртуальное окружение
+venv/
+.venv/
+env/
+Lib/
+Scripts/
+
+# IDE / редакторы
+.vscode/
+.idea/
+
+# База данных тестовая
+*.sqlite3
+worktime.db
+
+# Ruff cache
+.ruff_cache/
